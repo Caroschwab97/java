@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;tp02.ejercicio1&apos; to &apos;algoritmos/src&apos;&#x0D;&#x0A;- Original project: &apos;ListasDeEnteros&apos;&#x0D;&#x0A;- Destination element: &apos;algoritmos/src&apos;&#x0D;&#x0A;- Original element: &apos;ListasDeEnteros/src/tp02.ejercicio1&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=algoritmos/src" element1="/src&lt;tp02.ejercicio1" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1663370547070" version="1.0"/>
+</session>

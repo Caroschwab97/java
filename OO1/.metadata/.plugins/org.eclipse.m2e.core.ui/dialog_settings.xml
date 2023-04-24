@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Usuario\Documents\Facu\OO1\ejercicio1-wallpost"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="defaultLocal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="ar.edu.unlp.oo1.Empresa"/>
+			<item value="ar.edu.unlp.oo1.RegistroLlamadas"/>
+			<item value="ar.edu.unlp.oo1.sistema"/>
+			<item value="ar.edu.unlp.oo1.OOBnB"/>
+			<item value="ar.edu.unlp.oo1.ej14_tiempo"/>
+			<item value="ar.edu.unlp.oo1.correo"/>
+			<item value="ar.edu.unlp.oo1.ej11_inversor"/>
+			<item value="ar.edu.unlp.oo1.ej9_ganchos"/>
+			<item value="ar.edu.unlp.oo1.ej8_distribuidora"/>
+			<item value="ar.edu.unlp.oo1"/>
+			<item value="ar.edu.unlp.oo1.redAlumbrado"/>
+			<item value="ar.edu.unlp.oo1.genealogiaSalvaje"/>
+			<item value="ar.edu.unlp.oo1.figurasYCuerpos"/>
+			<item value="ar.edu.unlp.oo1.Presupuestos"/>
+			<item value="ar.edu.unlp.oo1.Ejercicio2_Balanza"/>
+		</list>
+		<list key="groupId">
+			<item value="ar.edu.unlp.oo1"/>
+		</list>
+		<list key="artifactId">
+			<item value="Empresa"/>
+			<item value="RegistroLlamadas"/>
+			<item value="sistema"/>
+			<item value="OOBnB"/>
+			<item value="ej14-tiempo"/>
+			<item value="correo"/>
+			<item value="ej11-inversor"/>
+			<item value="ej9-ganchos"/>
+			<item value="ej8-distribuidora"/>
+			<item value="redAlumbrado"/>
+			<item value="genealogiaSalvaje"/>
+			<item value="figurasYCuerpos"/>
+			<item value="Presupuestos"/>
+			<item value="Ejercicio2-Balanza"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+			<item value="1.0.0"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+		<list key="archetypeGroupId">
+			<item value="ar.edu.unlp.info.oo1"/>
+		</list>
+		<list key="archetypeArtifactId">
+			<item value="objetos-uno"/>
+		</list>
+		<list key="archetypeVersion">
+			<item value="1.0.0"/>
+		</list>
+		<list key="repositoryUrl">
+			<item value="https://github.com/edu-unlp-info-objetos/oo1/blob/main/objetos-uno-archetype/objetos-uno-archetype-1.0.0.jar?raw=true"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Usuario\Documents\Facu\OO1\ejercicio6-Red Alumbrado\redAlumbrado"/>
+			<item value="C:\Users\Usuario\Documents\Facu\Ejercicio2-Balanza\src\test\java\ar\edu\unlp\oo1\Ejercicio2_Balanza"/>
+			<item value="C:\Users\Usuario\Documents\Facu\OO1\ejercicio1-wallpost"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="450"/>
+		<item key="x" value="720"/>
+		<item key="y" value="106"/>
+	</section>
+</section>

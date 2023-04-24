@@ -1,0 +1,11 @@
+package tp06.ejercicio4;
+
+import tp06.ejercicio3.*;
+public class TestDFS {
+	
+	Grafo g = new GrafoImplListAdy<>();
+	
+	public void algo() {
+		
+	}
+}

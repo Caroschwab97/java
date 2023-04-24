@@ -1,0 +1,22 @@
+package tp06.ejercicio4;
+import tp06.ejercicio3.*;
+public class testDFS {
+
+	public static void main(String[] args) {
+		Grafo<VerticeImplListAdy<Integer>> g = new GrafoImplListAdy<Integer>();
+		
+		Vertice<Integer> a = new VerticeImplListAdy<Integer>(1);
+		Vertice<Integer> b = new VerticeImplListAdy<Integer>(2);
+		Vertice<Integer> c = new VerticeImplListAdy<Integer>(3);
+		Vertice<Integer> d = new VerticeImplListAdy<Integer>(4);
+
+		g.agregarVertice(a);
+		g.agregarVertice(b);
+		g.agregarVertice(c);
+		g.agregarVertice(d);
+		
+		Recorridos<VerticeImplListAdy<Integer>> r = new Recorridos<>();
+		r.dfs(g);
+	}
+
+}

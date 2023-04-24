@@ -1,0 +1,20 @@
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+import tp06.ejercicio3.Grafo;
+import tp06.ejercicio3.GrafoImplListAdy;
+import tp06.ejercicio4.BeforeEach;
+import tp06.ejercicio3.*;
+class algo {
+
+	@Test
+	void test() {
+			
+			Grafo g = new GrafoImplListAdy<>();
+			
+			@BeforeEach
+			public void algo() {
+	}
+
+}
